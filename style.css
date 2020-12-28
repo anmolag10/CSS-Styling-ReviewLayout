@@ -1,0 +1,175 @@
+.upper-section 
+{
+ width: 1444px;
+}
+
+
+
+.box
+{
+ 
+	float: left;
+	margin-top: 100px;
+	margin-left: 50px;
+	
+
+}
+
+.lower-section
+{
+	position: absolute;
+	top: 700px;
+}
+.rbox
+{
+	width: 100px;
+	padding: 50px;
+	margin: 100px;
+}
+
+h1{
+	color: hsl(300, 43%, 22%);
+	width: 400px;
+	font-size: 50px;
+}  
+
+.p1
+{
+	width: 400px;
+	color:hsl(303, 10%, 53%);
+}
+body
+{
+	font-family: 'Spartan', sans-serif;
+
+}
+.lbox
+{
+	position: relative;
+	top: 25px;
+}
+
+.star1
+{
+	
+	background-color:  hsl(300, 24%, 96%);
+	border-radius: 20px;
+	color: hsl(300, 43%, 22%);
+	width: 600px;
+	height: 60px;
+
+	
+	border: solid white 10px;
+}
+.star
+{
+	margin-right: 10px;
+	
+}
+
+.rating
+{
+	padding: 10px;
+	font-size: larger;
+	margin-right: 20px;
+	text-align: left;
+}
+.star2
+{
+	
+	background-color:  hsl(300, 24%, 96%);
+	border-radius: 20px;
+	color: hsl(300, 43%, 22%);
+	width: 600px;
+	height: 60px;
+	
+	margin-left: 40px;
+	border: solid white 10px;
+}
+.star3
+{
+	
+	background-color:  hsl(300, 24%, 96%);
+	border-radius: 20px;
+	color: hsl(300, 43%, 22%);
+	width: 600px;
+	height: 60px;
+	
+	border: solid white 10px;
+	margin-left: 80px;
+}
+
+.R1{
+	  position: relative;
+	  bottom: 180px;
+    border-radius: 10px;
+	padding: 30px;
+	width:300px;
+	background-color: hsl(300, 43%, 22%);
+    color:white;
+}
+
+.R2{
+	position: relative;
+	bottom: 435px;
+	left: 400px;
+	border-radius: 10px;
+	padding: 30px;
+	width:300px;
+	background-color: hsl(300, 43%, 22%);
+    color:white;
+}
+
+.R3{
+	position: relative;
+	bottom:680px;
+	left : 800px;
+	border-radius: 10px;
+	padding: 30px;
+	width:300px;
+	background-color: hsl(300, 43%, 22%);
+    color:white;
+}
+
+.Colton
+{
+	border-radius: 40px;
+	float: left;
+	margin-right: 10px;
+}
+.reviewdis
+{
+	padding-top: 10px;
+	clear: left;
+}
+.names
+{
+	padding: 10px;
+	
+	font-size: 15px;
+	margin-top: 5px;
+	color: hsl(333, 80%, 67%);
+  
+}
+
+.lower-section
+{
+	margin-left: 50px;
+}
+
+.nameofbuyer
+{
+	color: white;
+	text-emphasis: bold;
+
+}
+
+.top-img
+{
+	position: absolute;
+}
+.reviewcolor
+{
+	color: hsl(300, 24%, 96%);
+	font-size: 15px;
+}
